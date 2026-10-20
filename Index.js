@@ -24,10 +24,7 @@ for (i = 0; i < 10; i++) {
   } else {
     console.log("EStudante abaixo da Média " + nomes[i]);
   }
- 
 }
-
-
 
 mediaTurma = soma / 10;
 console.log("Maior nota = " + maiorNota);
