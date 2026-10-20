@@ -4,8 +4,6 @@ let mediaTurma;
 let maiorNota = 0;
 let menorNota = 10;
 let quantidadeAprovados = 0;
-let ordem;
-let notasIguais = 0;
 let i;
 let soma = 0;
 for (i = 0; i < 10; i++) {
